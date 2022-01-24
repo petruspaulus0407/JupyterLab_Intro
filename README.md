@@ -22,8 +22,8 @@ It has becomes an essential tool for earch science practitioners as well.
 
 ## Contents
 
-- Basic knowledge about Project Jupyter and JupyterLab 
-- Configuration and customisation for JupyterLab 
-- Extensions for JupyterLab 
+- jupter notebook : 20220122_JupyterLab_Intro.ipynb
+- slide deck : 20220122_JupyterLab_Intro.slides.html
+- slides pdf : 20220122_JupyterLab_Intro slides.pdf
 
 
